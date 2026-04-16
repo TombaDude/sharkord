@@ -1,0 +1,11 @@
+{
+  "kicked": "Sinut on potkittu",
+  "banned": "Olet saanut porttikiellon",
+  "connectionLost": "Yhteys katkennut",
+  "noReasonProvided": "Ei määriteltyä syytä.",
+  "lostConnectionMessage": "Yhteys palvelimeen katkesi odottamattomasti.",
+  "goToConnectScreen": "Mene Yhdistä -ruutuun",
+  "details": "Lisätietoja",
+  "code": "Code: {{code}}",
+  "time": "Time: {{time}}"
+}
