@@ -1,0 +1,17 @@
+{
+  "closeVoiceChat": "Sulje äänipuhelu",
+  "openVoiceChat": "Lopeta äänipuhelu",
+  "closeMembersSidebar": "Piilota jäsenluettelo",
+  "openMembersSidebar": "Näytä jäsenluettelo",
+  "searchContent": "Etsi sisältöä...",
+  "voiceOptions": "Puheluasetukset",
+  "hideNonVideoParticipants": "Piilota osallistujat ilman videota",
+  "displayUserBanners": "Näytä käyttäjien kansikuvat",
+  "hideOwnScreenShare": "Piilota oma näytönjako",
+  "audioControls": "Ääniasetukset",
+  "stream_one": "stream",
+  "stream_other": "streamit",
+  "noRemoteAudioStreams": "Ei etä-äänistreameja saatavilla.",
+  "volumeControls": "Äänenvoimakkuusasetukset",
+  "externalAudio": "Ulkoinen ääni"
+}
