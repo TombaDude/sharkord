@@ -1,0 +1,16 @@
+{
+  "identityLabel": "Identiteetti",
+  "identityHelp": "Yksilöllinen tunniste käyttäjällesi tällä palvelimella. Voit käyttää esimerkiksi sähköpostiosoitetta tai käyttäjänimeä. Tätä ei näytetä julkisesti.",
+  "passwordLabel": "Salasana",
+  "autoLoginLabel": "Kirjaudu sisään automaattisesti",
+  "insecureTitle": "Salaamaton yhteys",
+  "insecureDesc": "Olet yhdistänyt palvelimeen salaamattomalla yhteydellä (HTTP). Selain estää oletuksena pääsyn medialaitteiisin, kuten kameraan ja mikrofoniin salaamattomista lähteistä. Tämän takia et voi käyttää video -tai äänipuheluominaisuuksia käyttäessäsi HTTP yhteyttä. Jos olet palvelimen ylläpitäjä, voit ottaa HTTPS:n käyttöön seuraamalla dokumentaatiossa olevia ohjeita.",
+  "connectBtn": "Yhdistä",
+  "registrationDisabled": "Uusien käyttäjien rekisteröinti on pois käytöstä. Jos sinulla ei vielä ole tiliä, olemassaolevan käyttäjän pitää kutsua sinut tälle palvelimelle.",
+  "invitedTitle": "Sinut kutsuttiin liittymään tälle palvelimelle",
+  "inviteCode": "Kutsukoodi: {{code}}",
+  "connectError": "Yhdistäminen epäonnistui: {{message}}",
+  "loggingInAutomatically": "Kirjaudutaan sisään automaattisesti...",
+  "loadingApp": "Ladataan Sharkordia",
+  "loadingPlugins": "Ladataan lisäosia"
+}
